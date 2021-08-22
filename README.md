@@ -1,4 +1,5 @@
 # Code-Refactor KIB
+<<<<<<< HEAD
 
 The Challenge
 
@@ -37,3 +38,5 @@ Apply the concepts above to the final project and show the changes using commit 
 Specifications and Modifications made to code:
 
 -
+=======
+>>>>>>> 417fd5834c62814063cb9e888d7c35aa26830d30
