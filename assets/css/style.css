@@ -96,15 +96,35 @@ p
     color: #ffffff;
 }
 
-.float-left {
+.float-left 
+{
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.float-right 
+{
     float: right;
     margin-left: 25px;
 }
+
+/* consolidate style images */
+#search-engine-optimization img,
+#online-reputation-management img,
+#social-media-marketing img
+{
+    max-height: 200px;
+}
+
+/* consolidate headers */
+#online-reputation-management h2,
+#social-media-marketing h2,
+#search-engine-optimization h2
+{
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 /* consolidate benefit styles */
 .benefits 
 {
@@ -143,30 +163,16 @@ p
     max-width: 150px;
 }
 
-/* consolidate style images */
-#search-engine-optimization img,
-#online-reputation-management img,
-#social-media-marketing img
+/* consolidate footer styles/content */
+.footer 
 {
-    max-height: 200px;
-}
-
-/* consolidate headers */
-#online-reputation-management h2,
-#social-media-marketing h2,
-#search-engine-optimization h2
-{
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+.footer h2 
+{
     font-size: 20px;
 }
