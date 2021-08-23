@@ -27,6 +27,7 @@ Specifications and Modifications made to code:
 
 HTML:
 -Changed website title
+
 -Changed header
 -Changed main content and consoldiated classes.
 -Fixed button on seach engine optimization
@@ -36,7 +37,9 @@ HTML:
 
 CSS:
 -Adjusted global rules and styles
+
 -Changed nav bar format
+
 Created main content and consoldiated styles for clear HTML and CSS semantics
 
 
