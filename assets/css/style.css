@@ -63,7 +63,7 @@ p
     margin-left: 25px;
 }
 
-.MainImage 
+.main-image 
 {
     height: 800px;
     width: 100%;
@@ -76,7 +76,7 @@ p
 /* main content */
 
 
-.maincontent 
+.main-content 
 {
     width: 75%;
     display: inline-block;
@@ -162,7 +162,6 @@ p
     margin: 10px auto;
     max-width: 150px;
 }
-
 /* consolidate footer styles/content */
 .footer 
 {
