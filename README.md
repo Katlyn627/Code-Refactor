@@ -25,3 +25,21 @@ Apply the concepts above to the final project and show the changes using commit 
 
 Specifications and Modifications made to code:
 
+HTML:
+-Changed website title
+-Changed header
+-Changed main content and consoldiated classes.
+-Fixed button on seach engine optimization
+-Created atl tags for all images
+-Create and condolidate content for aside content
+-Created footer
+
+CSS:
+-Adjusted global rules and styles
+-Changed nav bar format
+Created main content and consoldiated styles for clear HTML and CSS semantics
+
+
+
+
+
