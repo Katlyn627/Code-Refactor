@@ -83,6 +83,19 @@ p
     margin-left: 20px;
 }
 
+/* consolidate style */
+#search-engine-optimization, 
+#online-reputation-management,
+#social-media-marketing
+{
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
 .float-left 
 {
     float: left;
@@ -96,21 +109,9 @@ p
 }
 
 /* consolidate style images */
-
-/* consolidate style */
-.main-content-Image
-{
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#online-reputation-management,
-#social-media-marketing,
-#search-engine-optimization 
+#search-engine-optimization img,
+#online-reputation-management img,
+#social-media-marketing img
 {
     max-height: 200px;
 }
