@@ -1,6 +1,6 @@
 # Code-Refactor KIB
 
-./assets/images/Screenshots\Screenshot Code Refactor.jpg
+![image](https://user-images.githubusercontent.com/86095070/131224179-19e5db38-a8a5-4778-9627-a83c0ec6ecfe.png)
 
 The Challenge
 
