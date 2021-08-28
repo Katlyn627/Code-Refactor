@@ -4,11 +4,11 @@
 
 The Challenge
 
-To refactor an exisiting webpage to make it accesible for all users and and to optimize the serach engines.
+To refactor an exisisting webpage to make it accesible for all users and and to optimize the serach engines.
 
 User Story:
 
-As a marketing agency, I want a codebase that follows accessibility standards so that, our own site is optimized for search engines
+As a marketing agency, I want a codebase that follows accessibility standards so that, our own site is optimized for search engines.
 
 
 Acceptance Criteria for the Webpage:
