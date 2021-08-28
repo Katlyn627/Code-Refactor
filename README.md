@@ -4,7 +4,7 @@
 
 The Challenge
 
-To refactor an exisitring webpage to make it accesible for all users and and to optimize the serach engines.
+To refactor an exisiting webpage to make it accesible for all users and and to optimize the serach engines.
 
 User Story:
 
