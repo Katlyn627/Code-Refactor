@@ -1,6 +1,6 @@
 # Code-Refactor KIB
 
-Screenshot Code Refactor Homework.jpg
+C:\Users\katly\OneDrive\Pictures\Screenshots\Screenshot Code Refactor Homework.jpg
 
 The Challenge
 
