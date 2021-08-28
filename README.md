@@ -1,5 +1,7 @@
 # Code-Refactor KIB
 
+Screenshot Code Refactor Homework.jpg
+
 The Challenge
 
 To refactor an exisitring webpage to make it accesible for all users and and to optimize the serach engines.
@@ -54,6 +56,13 @@ CSS:
 
 Created main content and consoldiated styles for clear HTML and CSS semantics
 
+Deployment:
+
+Github repository
+https://github.com/Katlyn627/Code-Refactor
+
+Public page:
+https://katlyn627.github.io/Code-Refactor/
 
 
 
